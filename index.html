@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imersão Dev</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="page-title">Classificação Alura</h1>
+        
+        <form id="formAdicionar">
+            <label for="nomeNovoJogador">Nome do Novo Jogador:</label>
+            <input type="text" id="nomeNovoJogador" required>
+            <button type="button" onclick="adicionarNovoJogador()">Adicionar Jogador</button>
+        </form>
+
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Vitórias</th>
+                    <th>Empates</th>
+                    <th>Derrotas</th>
+                    <th>Pontos</th>
+                    <th colspan="4">Ações</th> 
+                </tr>
+            </thead>
+            <tbody id="tabelaJogadores">
+            </tbody>
+        </table>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
