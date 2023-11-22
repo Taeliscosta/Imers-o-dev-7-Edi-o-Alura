@@ -6,5 +6,5 @@ Aula 05: Desbravando Objetos e Construindo uma Tabela de Classificação.
 | -------------  | --- |
 | :sparkles: Nome        | **AluraFlix: Imersão Dev 7ª Edição**
 | :label: Tecnologias | html, css, javascript (tecnologias utilizadas)
-| :rocket: URL         | https://taeliscosta.github.io/Tabela-de-Classificao
+| :rocket: URL         | [https://taeliscosta.github.io/Tabela-de-Classificao](https://github.com/Taeliscosta/Tabela-de-Classificao)https://github.com/Taeliscosta/Tabela-de-Classificao
 | :fire: Desafio     | 
