@@ -1,4 +1,4 @@
-# AluraFlix: Imersão Dev 7ª Edição
+# Tabela de Classificação: Imersão Dev 7ª Edição
 
 Aula 05: Desbravando Objetos e Construindo uma Tabela de Classificação.
 
